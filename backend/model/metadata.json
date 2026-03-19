@@ -1,0 +1,9 @@
+{
+  "best_model_name":"Linear SVM",
+  "accuracy":0.901,
+  "cv_mean":0.8835,
+  "vocab_size":50000,
+  "sample_size":10000,
+  "ngram_range":"(1, 2)",
+  "max_features":50000
+}
