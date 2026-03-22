@@ -1,0 +1,222 @@
+Date,Name,Work Done / Detailed Description,Remark by Manager/Trainer/Other
+3/10/2026,Rahul,"Today’s Work Update:
+1 :Uploaded all required data into the application, including Employee, Driver, Cab, Shift, and Route details.
+2 :Encountered a few minor issues during Trip Creation and addressed them accordingly.
+3 :Identified and resolved a 404 error (GET /admin/trips) caused by incorrect backend routing.
+4 :Verified the fix and pushed updated changes for deployment.
+4 :Performed UAT across the entire application; most features are working correctly, with only minor issues remaining, which we are actively resolving.
+5 :Attempted to build an APK from the URL for app testing.",
+3/10/2026,Kajal,"1.studied FastAPI framework fundaments and explore the official documentation.
+2.Devloped the CRUD APIs including the POST,PUT,UPDATE,DELETE endpoint APIs.
+3.Implemented API routes and validated request data using FastAPI Models .      ",
+3/10/2026,Lalit,"1. Python Data Type
+2. For and While Loops
+3. Function Decleration and Calling",
+3/10/2026,Vishal,"1.Studied Python Data types
+2.Studied the various loopings like for loop and while loop
+3.Understand the Conditional statements
+4.Understand the functions ",
+,,,
+3/11/2026,Rahul,"Today’s Work Update:
+1 :Voice-based answers using Whisper for speech?to?text conversion.
+2 :Typed code answers supported natively in chat.
+3 :Groq API integration — Whisper handles audio transcription, and Llama?70B generates interview questions, evaluates answers, and detects AI?generated (cheating) responses.
+PostgreSQL database to store user profiles, test sessions, answers, and ???? feedback ratings.
+Smart -fleet :
+4 :Fixed the minor page reloading issue and resolved problems in the trip creation module.
+5 :Performed UAT on all updated components and verified all functionalities are working correctly.",
+3/11/2026,Kajal,"1.Revised Python programming fundamentals including syntax ,variable,and data types
+2.Practiced working with numbers,string and operators in python
+3.Lerned Python functions and modular programming concepts
+4.Explore and practiced OOPs  concepts including classes,objects,inheritance ,polymorphism and encapsulation ",
+3/11/2026,Vishal,"1.Explore the basic python concepts such as list , tuple 
+2.Done some hands on python concepts 
+3.Attend the meeting with Mr. Gokul sir regarding basic ML concepts
+4.Explore some websites for learning the above concepts in detail ",
+3/11/2026,Lalit,"1. Class Object Creation
+2. Inheritance And Polymorphism
+3. Global and Local Variables
+4. List and Tuple Method",
+,,,
+3/12/2026,Rahul,"Daily Work Update,
+1.Performed UAT on SmartFleet and validated key modules.
+2 .Identified an issue where the Employee Edit UI is not responsive on laptop resolutions (works correctly on desktop).
+3.Explained my Telegram Interview Preparation Chatbot to Mukesh — built using the Agnetic framework, covering intents, flow design, and response accuracy.
+3.Explored agentic frameworks like CrewAI, AutoGen, and LangGraph for multi?agent orchestration and tooling.
+4.Researched agentic project ideas such as automated interview simulators, task?routing agents, workflow copilots, and multi?agent productivity tools.
+5.Learned how to run an LLM locally via Docker (pull image and set up basic container execution).",
+3/12/2026,Kajal,"1.studied fundamental ML concepts and workflow
+2.Learned about the Supervised Learning and Unsupervised Learning techniques .
+3.Implemented a Logistic regression model for predicting whether it  will rain the next day.
+4.followed complete Ml pipeline steps including data preprocessing,feature selection, model training and prediction.",
+3/12/2026,Vishal,"1.Looking in the basic python concepts such as loops, functions 
+2.Also look into the OOPS concepts like abstraction,polymorphism, Inheritance
+3.Attend the session of Gokul sir 
+4.Develop a ML model ",
+3/12/2026,Lalit,"1. Building Machine Learning model for Classifying Kidney Disease
+2. Data Preprocessing, Data Cleaning, Data Encoding.
+3. Data divide into train and test.
+4. Model Building, Model Testing.
+5. For improve performance of model apply smote.
+6. Final Model gives accuracy of 97% using decision tree algorithm. 
+7. FastAPI tutorials(YouTube) - overview about basic architecture of fastAPI.",
+,,,
+3/13/2026,Rahul,"Today’s Work Update:
+1:Fixed driver name edit not saving to backend — Drivers module
+2:Fixed responsive UI issues in Employee and Cab Details edit forms across  laptop, and desktop
+3:Replaced fixed widths with fluid values and applied responsive breakpoints in Employee and Cab Details module
+4:. Attended the technical session on AWS Cloud conducted by Srinivasa Sir got the insights on the AWS , where we learned about IAAS, PAAS, SAAS, and key AWS services including S3, DynamoDB, Lambda, Bedrock.5:Attended Machine Learning Classification lecture by Mukesh ",
+3/13/2026,Kajal,"1.Evaluate  the trained Logistic model using appropriate evaluation metrics.
+2.explore and save the trained model in .pkl format for deployment
+3.Learned Streamlit Framework for building the simple ML web application  
+4.Integrated the trined ML model with Streamlit UI for prediction interface
+5.Practices the imoplementing the Linear Regression algorithm using the random generated dataset
+6.Studied GenAI concept, its workflow, and real word business application",
+3/13/2026,Vishal,"1.Developed an ML model using linear regression
+2.Attend the session of Mr Srinivas regarding the Gen-AI
+3.Also attend the session of Mr Mukesh regarding Basic ML concepts where we explore all ML process 
+4.Also integrate my model with streamlit and check model accuracy
+5.Done research about the various ML models and their pros and cons also 
+6.Spent time for brushing up my GenAI knowlwdge
+",
+3/13/2026,Lalit,NP,
+,,,
+3/14/2026,Rahul,"Daily Work Update,
+1:Performed UAT on Smart Fleet Cab module after recent UI fixes
+2:Verified core functionalities and checked updated responsive UI
+3:SMTP feature added in Cab Management tab for expiry alert emails to Admin
+4:SMTP testing pending (email trigger flow yet to be validated)
+5:Explained Telegram interview chatbot workflow to team",
+3/14/2026,Kajal,"1.Studied and understood the Random Forest algorithm and its working principles in Machine Learning.
+2.Learned key concepts such as Decision Trees, Bagging, Boosting, and Feature Importance, which are fundamental components of ensemble learning methods like Random Forest.
+3.Implemented a Random Forest model for a classification problem using the given dataset.
+4.Analyzed the model performance and compared it with other Machine Learning algorithms to understand the effectiveness of different models.
+5.Implemented 9 different classification models on the same dataset and evaluated each model using important evaluation metrics, including Confusion Matrix, ROC Curve, Precision, Recall, and F1 Score.
+6.Created bar chart visualizations to compare the performance of all models, helping to identify the best-performing algorithm based on evaluation metrics.",
+3/14/2026,Vishal,"1.Select the best dataset that I need according to my project
+2.Understand the dataset and problem statement of my project 
+3.orking on various ML models and understand the models accuracy according to my dataset
+4.lso looking deep in ML models and prepared a ML model
+5And also saved the model by using pickle and joblib also
+6join the meeting with Rahul to understand the project that he created
+7.here we learn LLMs and learn the Groq API key 
+",
+,,,
+3/16/2026,Rahul,"Daily Work Update,
+1:Worked on the SmartFleet project: fixed issues, updated reports, and started reset?password functionality.
+2:Attended AWS GenAI training on LLMs and NLP.
+3:Completed UAT for the Recruiter module; found minor login issues and missing test emails.
+4:Presented the SmartFleet end?to?end flow to Vishal Sir and the audit team.
+5:Attended a lecture on Unsupervised ML techniques by Satyam.",
+3/16/2026,kajal,"1.Studied the concepts of Unsupervised Learning and understood its role in machine learning when labeled data is not available.
+2.Analyzed different Unsupervised Learning algorithms, including when to use them, how they work, and the steps required for their implementation.
+3.Performed unsupervised clustering using PCA and K-Means on the Live.csv dataset. The implementation included:
+i)Dataset loading and exploration
+ii)Data preprocessing and cleaning
+iii)Dimensionality reduction using PCA (Principal Component Analysis)
+iv)Clustering using the K-Means algorithm
+4.Cluster evaluation and visualization of results",
+3/16/2026,Vishal,"1.Develop the ML model by using various ML algo
+2. On spam Detection Dataset
+3.Like Logistic reg,Decision Tree, Naive Bayes and Random Forest
+4.Also linked the ML model with streamlit UI for better understanding
+5.Attended the Mr Satyam Session on unsupervised ML 
+6.Where  I learn the Clustering algo like K-Means , Hierachical and DBSCAN and also learn PCA, Apriori algo
+7 Then Attended Mr Shrinivas Sir Session on AWS platform and also Learn LLM concept
+8.Develop the ML model by using K-means and PCA 
+9.On the E-Commerce dataset ",
+3/16/2026,Lalit," 1. Unsupervised learning algorithm overview
+ 2. K-means, hierarchical, dbscan 
+ 3. Principal Component Analysis Theory and Implementation
+ 4. Implementation of unsupervised learning algorithm k-mean on IRIS Dataset.",
+,,,
+3/17/2026,Rahul,"Daily Work Update,
+1) Worked on the SmartFleet Cab Management project:
+Added the maintenance card to the dashboard
+Implemented a notification popup for upcoming document expiry
+Enabled blinking for expiry dates in the maintenance tab
+2) Updated special trips and reports:
+Added “from?to date” and start/end time options in special trips
+Updated all?trip, cab?wise, and driver?wise reports
+Added a date filter to fetch reports for a specific day
+3) Participated in AWS GenAI training:
+Learned about Bedrock—its working, usage, and how to build a simple GenAI model",
+3/17/2026,Lalit,"1. Implementation of Association Rule Learning (Apriori)
+2. PCA Implementation and Testing on Dummy Dataset
+3. Text Preprocessing
+	i) Lowercasing
+	ii) Remove HTML Tags
+	iii) Remove URL's
+	iv) Remove Punctuation
+	v) Chat word treatment
+	vi) Spelling Correction
+	vii) Removing Stop words
+	viii) Handling Emojis
+	ix) Tokenization
+",
+3/17/2026,Vishal,"1.Underastand the Unsupervised learning models
+2.Selecting the best models like K_Means and Apriori models
+3.Develop a ML model by using a Apriori algo on E-Commerce dataset
+4.Understand the PCA and silhouette concepts
+5.Attended the Session of Anjali where we learn NLP topics
+6.Such as Tokenization,Lemmitization 
+7.Also attend the session of Shriniwas where we learn the AWS + GenAI 
+8.Explore the various NLP processes and NLTK library 
+",
+3/17/2026,kajal,"1.Studied and analyzed Association Rule Learning, including how it works, why it is important, and its real-world applications in areas such as market basket analysis and recommendation systems.
+2.Implemented the Apriori algorithm using a randomly generated dataset to understand the working of association rule mining.
+3.Evaluated the key Apriori algorithm metrics, including:
+  i)Support
+  ii)Confidence
+  iv)Lift
+4.Analyzed the FP-Growth algorithm and its working process, including:
+   i)Data Compression using FP-Tree structure
+   ii)Mining the FP-Tree to extract frequent patterns
+   iii)Generating association patterns efficiently",
+,,,
+3/18/2026,Rahul,"Today's Work Update:
+SmartFleet – Cab Management Project:
+
+1:Added validation so cabs marked Under Maintenance don’t appear during trip creation.
+2:Implemented odometer image upload with validation to allow trip start only after successful submission.
+3:Worked on Report module and added image compression (module partially completed).
+4:Updated login page UI with new color variants for all user roles.
+5:Performed end?to?end testing of all application features.
+
+AWS GenAI Training:
+
+Attended training session covering fine?tuning techniques (Supervised & RL), evaluation metrics, and related concepts.",
+3/18/2026,Lalit,"1. Text Preprocessing
+Tokenization: Splitting text into smaller units like words or sentences for analysis.
+Stemming: Reducing words to their root form by stripping suffixes (e.g., running ? run).
+Lemmatization: Converting words to their meaningful base form using vocabulary and context (e.g., better ? good).
+
+2. Text Feature Extraction
+One?Hot Encoding (OHE): Represents each word as a binary vector indicating its presence or absence.
+Bag of Words (BoW): Converts text into numerical features based on word frequency, ignoring word order.
+N?grams: Captures sequences of n consecutive words to preserve partial context in text.
+
+3. Sentiment Analysis
+VADER: A rule?based sentiment analysis tool that determines positive, negative, neutral, and compound sentiment scores.",
+3/18/2026,Vishal,"1.Learned NLP techniques (lemmatization, stemming) and Regex with coding practice.
+2.Built a Sentiment Analysis project using Streamlit.
+3.Gained knowledge of FastAPI from basic to practical applications.
+4.Explored GenAI concepts on AWS through expert sessions.",
+3/18/2026,kajal,1 .Learned the NLP techniques and text processing.,
+,,,
+3/19/2026,Rahul,"Daily Work Update,
+1)SmartFleet Project:
+Performed UAT on the SmartFleet system; core functionalities are working as expected. Identified minor UI inconsistencies and occasional response?time delays. Also received Gmail access and began implementing SMTP email integration.
+2)Agentic AI Project:
+Explored key concepts of GenAI and Agentic AI, including their importance, architecture, and major components.
+3)Attended a session on FastAPI covering fundamentals, along with a comparison of microservices vs monolithic architecture.",
+,,,
+,,"Studied backend architecture concepts, focusing on Monolithic vs Microservices architecture and their use cases in scalable backend systems.
+
+Developed multiple FastAPI services with CRUD operations, including Todo, Calculator, and Product services, each implemented in separate app.py service modules.
+
+Integrated a Machine Learning model by saving it in .pkl format and creating a prediction API endpoint that accepts input data and returns predicted output.
+
+Implemented a central main.py service orchestrator to run and manage all individual services on different ports, demonstrating a microservices-style architecture.
+
+Tested API endpoints for request validation, CRUD functionality, and ML prediction integration to ensure smooth service operation.",
